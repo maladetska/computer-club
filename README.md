@@ -1,6 +1,6 @@
 # Computer Club
 
-Два теста находятся в /computer_club/tests/static.
+Два теста находятся в /computer-club/tests/static.
 
 Сборка проекта осуществляется с помощью cmake.
 Сборка и запуск происходят в скрипте launch.sh.
